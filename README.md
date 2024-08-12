@@ -1,3 +1,5 @@
+![logo](https://github.com/Dhruv3004/Calories-Burnt-Prediction/blob/main/210569997-d595252d-ea28-4f3c-935d-3141407cf8c7.png?raw=true)
+
 # Calories Burnt Prediction
 
 This project aims to predict the number of calories burned during exercise sessions based on various physiological and demographic variables. Accurate prediction of calories burned is essential for fitness tracking, dietary planning, and personalized health recommendations.
