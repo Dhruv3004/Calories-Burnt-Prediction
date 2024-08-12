@@ -3,8 +3,11 @@ This project aims to predict the number of calories burned during exercise sessi
 
 ## Table of Contents
 Project Overview
+
 Dataset Description
+
 Features
+
 Modeling
 
 ## Project Overview
